@@ -7,6 +7,7 @@ Computer Science Student
 I am currently a year 1 Software Engineering student studying in Universiti Teknologi Malaysia
 
 * 🌍  I'm based in Johor, Malaysia
+* 🖥️  See my portfolio at [MyPortfolio](http://github.com/siohyingyi)
 * ✉️  You can contact me at [siohyingyi@gmail.com](mailto:siohyingyi@gmail.com)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Projects
